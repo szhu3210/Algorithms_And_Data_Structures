@@ -1,0 +1,28 @@
+Google Interview Methodology
+
+    Be positive
+    Willingness to learn
+    Show thought process
+
+1 Clarification
+    Make sure I fully understand problem to solve
+        Use examples
+    Clarify function signature
+        Type of inputs and outputs
+        Size of inputs and outputs
+        Range of inputs and outputs
+        Edge cases
+
+2 Describe idea and discuss
+    Discuss all cases
+    Discuss potential solutions
+    Use example
+
+3 Choose an approach and write code
+    Ask interviewer for approval
+    Write code with example
+
+4 Test solution and analyze complexity
+    Walk through examples line by line
+    Record variable values
+    Analyze time and space complexity

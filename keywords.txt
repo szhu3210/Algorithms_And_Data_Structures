@@ -1,0 +1,17 @@
+除数：divisor
+被除数：dividend
+商：quotient
+余数：remainder
+因数：factor
+质因数：prime factor
+分子：nominator
+分母：denominator
+图：graph
+边：edge
+节点：node
+顶点：vertex
+度：degree
+入度：in degree
+出度：out degree
+邻接表：adjacency list
+（节点的）后继：descendant
