@@ -13,6 +13,8 @@ To do list:
 
 用逻辑思考而不是靠观察法得出解法，这样的解法会比较solid且可以包含所有edge cases。
 
+做了LC124，居然一边录制一边Google Docs上写，还做完了，而且是一遍过LC。上一次做此题还是三年前。感觉自己确实还有很大的提升的空间。
+
 复习了variable的scope的问题：
     https://www.geeksforgeeks.org/global-local-variables-python/
         函数内读取外部变量的值时可以直接读取
