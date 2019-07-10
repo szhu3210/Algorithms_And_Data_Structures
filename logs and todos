@@ -25,6 +25,8 @@ To do list:
             使用self.variable_name
             把函数写在class里而不是function里，使函数的定义更清晰
 
+做了LC839，半小时就把标准解法给写出来了，但是答案通不过OJ，虽然复杂度在合理范围内。
+
 
 20190709
 
