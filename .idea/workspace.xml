@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/Practice_1_LC_124_Hard/Practice_1_LC_124_Hard_v1.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_v2.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_v1.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_v2.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_3_LC_685_Hard/Practice_3_LC_685_Hard_v1.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_3_LC_685_Hard/Practice_3_LC_685_Hard_v2.m4a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/1 code implementation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/troy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/Practice_1_LC_124_Hard/Practice_1_LC_124_Hard_v1.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_find_minimum_spanning_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_standard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/keywords.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs and todos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math_utilities/factorize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/method of interview" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/method of interview.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/method of study" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multi_threading/sample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/.pytest_cache/v/cache/lastfailed" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_v2.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_v1.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_v2.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_3_LC_685_Hard/Practice_3_LC_685_Hard_v1.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/Practice_3_LC_685_Hard/Practice_3_LC_685_Hard_v2.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/input" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/quick_find.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/quick_union.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/quick_union_improved.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/union_find/union_find_standard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs and todos" afterPath="$PROJECT_DIR$/logs and todos" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,21 +39,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="logs and todos" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/logs and todos">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -253,7 +199,9 @@
     <option name="width" value="1680" />
     <option name="height" value="940" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -711,6 +659,14 @@
       <option name="presentableId" value="Default" />
       <updated>1561642457258</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated my progress.&#10;">
+      <created>1562751285193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562751285193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -788,20 +744,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a repository for my implementation of algorithms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a repository for my implementation of algorithms." />
+    <MESSAGE value="Updated my progress.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated my progress.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/method of study">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs and todos">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -1143,10 +1093,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/logs and todos">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

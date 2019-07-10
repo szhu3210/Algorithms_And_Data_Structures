@@ -3,13 +3,14 @@ To do list:
     2. Prepare 2 stories about teamwork, behavior, personality, leadership, communication skills.
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
 
+
 20190710
 
 今天做了LC685的mock interview并分析。
 
 我发现做题都必须深刻理解题意，千万不要随便开始写代码，一定要完全理解了题目意思，知道需要解决什么问题之后再想解法。
 
-谷歌的题一定是想洋葱一样可以一步一步推导的，一定要展现出思考的过程而不是直接给出解法。理解了需要解决的问题之后便可以一步一步推导出答案。
+谷歌的题一定是想像洋葱一样可以一步一步推导的，一定要展现出思考的过程而不是直接给出解法。理解了需要解决的问题之后便可以一步一步推导出答案。
 
 用逻辑思考而不是靠观察法得出解法，这样的解法会比较solid且可以包含所有edge cases。
 
