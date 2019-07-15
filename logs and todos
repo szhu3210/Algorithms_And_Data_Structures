@@ -2,6 +2,14 @@ To do list:
     1. Prepare technical projects: Arbitrage and BlueAir
     2. Prepare 2 stories about teamwork, behavior, personality, leadership, communication skills.
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
+    4. Trie
+
+
+20190711
+
+做了LC472，半小时内可以出一个一般解法（Trie + DFS)，但是通不过OJ，需要加一个mem来优化。
+
+需要研究一个Trie的标准写法，包括数据结构、加单词函数、找单词函数。还需要研究LC472的最优解法（DP）。
 
 
 20190710
