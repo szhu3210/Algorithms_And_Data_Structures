@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symbol_table/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symbol_table/trie.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +18,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py.coverage" NAME="py.test in test.py Coverage Results" MODIFIED="1561887195257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_TestTrie_and_test_trie.coverage" NAME="py.test in TestTrie and test_trie Coverage Results" MODIFIED="1563289023529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$quick_find.coverage" NAME="quick_find Coverage Results" MODIFIED="1561645292874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
     <SUITE FILE_PATH="coverage/1 code implementation$factorize__1_.coverage" NAME="factorize (1) Coverage Results" MODIFIED="1562407904831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math_utilities" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py__1_.coverage" NAME="py.test in test.py (1) Coverage Results" MODIFIED="1563288709693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_Practice_1_LC_952_Hard_test_py.coverage" NAME="py.test in Practice_1_LC_952_Hard_test.py Coverage Results" MODIFIED="1561816542217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_TestTrie.coverage" NAME="py.test in TestTrie Coverage Results" MODIFIED="1563288778324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py__2_.coverage" NAME="py.test in test.py (2) Coverage Results" MODIFIED="1563288953086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$sample.coverage" NAME="sample Coverage Results" MODIFIED="1562664460278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi_threading" />
+    <SUITE FILE_PATH="coverage/1 code implementation$trie.coverage" NAME="trie Coverage Results" MODIFIED="1563288893191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/symbol_table" />
     <SUITE FILE_PATH="coverage/1 code implementation$test.coverage" NAME="test Coverage Results" MODIFIED="1561886910295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
     <SUITE FILE_PATH="coverage/1 code implementation$factorize.coverage" NAME="factorize Coverage Results" MODIFIED="1561773080909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
   </component>
@@ -41,17 +48,59 @@
         <entry file="file://$PROJECT_DIR$/logs and todos">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice_2_LC_472_Hard_v2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Practice_2_LC_472_Hard_v2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trie.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice_2_LC_803_Hard_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -62,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="method of interview" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/method of interview">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,27 +130,7 @@
         <entry file="file://$PROJECT_DIR$/keywords.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dfs_detect_cycles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dfs_check_bipartite.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -119,16 +138,6 @@
       </file>
       <file leaf-file-name="dfs_topological_sort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dfs_find_minimum_spanning_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_find_minimum_spanning_tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -198,6 +207,11 @@
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/a.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py" />
         <option value="$PROJECT_DIR$/logs and todos" />
+        <option value="$PROJECT_DIR$/symbol_table/trie_test.py" />
+        <option value="$PROJECT_DIR$/trie/trie.py" />
+        <option value="$PROJECT_DIR$/trie/test.py" />
+        <option value="$PROJECT_DIR$/symbol_table/test.py" />
+        <option value="$PROJECT_DIR$/symbol_table/trie.py" />
       </list>
     </option>
   </component>
@@ -254,7 +268,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="depth_first_search" />
+              <option name="myItemId" value="union_find" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,11 +282,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="depth_first_search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice_2_LC_472_Hard" />
+              <option name="myItemId" value="symbol_table" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,51 +307,8 @@
       <recent name="$PROJECT_DIR$/union_find" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample">
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/union_find" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="1 code implementation" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/union_find/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="1 code implementation" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/union_find/test.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in Practice_1_LC_952_Hard_test.py" type="tests" factoryName="py.test" temporary="true">
+  <component name="RunManager" selected="Python tests.py.test in TestTrie and test_trie">
+    <configuration default="false" name="py.test in test.py (1)" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -359,47 +326,104 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard_test.py" />
+      <option name="testToRun" value="$PROJECT_DIR$/trie/test.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="factorize (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="py.test in TestTrie" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1 code implementation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/symbol_table/test.py" />
+      <option name="keywords" value="TestTrie" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test.py (2)" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1 code implementation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/symbol_table/test.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="trie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/math_utilities" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/symbol_table" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="1 code implementation" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math_utilities/factorize.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/symbol_table/trie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="py.test in TestTrie and test_trie" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multi_threading" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="1 code implementation" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading/sample.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/symbol_table/test.py" />
+      <option name="keywords" value="TestTrie and test_trie" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -617,19 +641,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Practice_1_LC_952_Hard_test.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.factorize (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sample" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test.py (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test.py (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.trie" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie and test_trie" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sample" />
-        <item index="1" class="java.lang.String" itemvalue="Python.factorize (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Practice_1_LC_952_Hard_test.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie and test_trie" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test.py (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.trie" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test.py (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -714,39 +738,46 @@
       <option name="project" value="LOCAL" />
       <updated>1563246029311</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated LC472_v2.&#10;">
+      <created>1563285950058</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563285950058</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_py - 2019.06.29 at 21h 58m 25s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_TestTrie - 2019.07.16 at 22h 53m 00s.xml">
+      <configuration name="py.test in TestTrie" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.29 at 21h 58m 37s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 56m 15s.xml">
+      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.29 at 21h 59m 02s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 56m 48s.xml">
+      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 28m 04s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 57m 03s.xml">
+      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 28m 38s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(1) - 2019.07.16 at 22h 51m 03s.xml">
+      <configuration name="py.test in test.py (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 28m 49s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(1) - 2019.07.16 at 22h 51m 50s.xml">
+      <configuration name="py.test in test.py (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 30m 01s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 53m 07s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 32m 06s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 54m 56s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 32m 52s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 42s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2019.06.30 at 17h 33m 18s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 53s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -764,10 +795,10 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21855922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -804,17 +835,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keywords" />
     <entry file="file://$PROJECT_DIR$/union_find/quick_find.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -979,20 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1132,7 +1138,7 @@
     <entry file="file://$PROJECT_DIR$/keywords.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1148,7 +1154,23 @@
     <entry file="file://$PROJECT_DIR$/logs and todos">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -1156,7 +1178,25 @@
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
