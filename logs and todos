@@ -4,6 +4,16 @@ To do list:
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
     4. Trie
 
+
+20190716
+
+研究Trie的标准写法，偶然发现了LC472的最优解，跪了。没想到一道hard题可以如此简单。
+
+问题在于我用的是Trie的解法，虽然查找时间可以做到sub-linear，但是其实Trie本质上是一个symbol table的实现，用hash table一样可以做到linear。
+
+由于此题中建立Trie有了额外开销，其实最终效果还是symbol table更好。只能怪自己学艺不精。
+
+
 20190715
 
 做了LC968，练习了关于DFS和DP的结合使用。
