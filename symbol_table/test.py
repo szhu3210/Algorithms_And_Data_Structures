@@ -11,6 +11,6 @@ class TestTrie(TestCase):
         self.assertEqual(trie.get('33'), None)
         self.assertEqual(trie.get('3'), 33)
         self.assertEqual(trie.get(''), None)
-        trie.set('33', 44)
-        self.assertEqual(trie.get('33'), 44)
+        trie.set('3', 44)
+        self.assertEqual(trie.get('3'), 44)
         self.assertEqual(trie.get('333'), None)

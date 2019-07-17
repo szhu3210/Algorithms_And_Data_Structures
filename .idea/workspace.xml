@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs and todos" afterPath="$PROJECT_DIR$/logs and todos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symbol_table/test.py" afterPath="$PROJECT_DIR$/symbol_table/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +17,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py.coverage" NAME="py.test in test.py Coverage Results" MODIFIED="1561887195257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_TestTrie_and_test_trie.coverage" NAME="py.test in TestTrie and test_trie Coverage Results" MODIFIED="1563289023529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_TestTrie_and_test_trie.coverage" NAME="py.test in TestTrie and test_trie Coverage Results" MODIFIED="1563290983512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$quick_find.coverage" NAME="quick_find Coverage Results" MODIFIED="1561645292874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
     <SUITE FILE_PATH="coverage/1 code implementation$factorize__1_.coverage" NAME="factorize (1) Coverage Results" MODIFIED="1562407904831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math_utilities" />
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py__1_.coverage" NAME="py.test in test.py (1) Coverage Results" MODIFIED="1563288709693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_Practice_1_LC_952_Hard_test_py.coverage" NAME="py.test in Practice_1_LC_952_Hard_test.py Coverage Results" MODIFIED="1561816542217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_TestTrie.coverage" NAME="py.test in TestTrie Coverage Results" MODIFIED="1563288778324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py__2_.coverage" NAME="py.test in test.py (2) Coverage Results" MODIFIED="1563288953086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/1 code implementation$py_test_in_test_py__2_.coverage" NAME="py.test in test.py (2) Coverage Results" MODIFIED="1563291032745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/1 code implementation$sample.coverage" NAME="sample Coverage Results" MODIFIED="1562664460278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi_threading" />
     <SUITE FILE_PATH="coverage/1 code implementation$trie.coverage" NAME="trie Coverage Results" MODIFIED="1563288893191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/symbol_table" />
     <SUITE FILE_PATH="coverage/1 code implementation$test.coverage" NAME="test Coverage Results" MODIFIED="1561886910295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
@@ -43,11 +43,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logs and todos" pinned="false" current-in-tab="true">
+      <file leaf-file-name="logs and todos" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs and todos">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="384">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -208,9 +208,9 @@
         <option value="$PROJECT_DIR$/symbol_table/trie_test.py" />
         <option value="$PROJECT_DIR$/trie/trie.py" />
         <option value="$PROJECT_DIR$/trie/test.py" />
-        <option value="$PROJECT_DIR$/symbol_table/test.py" />
         <option value="$PROJECT_DIR$/symbol_table/trie.py" />
         <option value="$PROJECT_DIR$/logs and todos" />
+        <option value="$PROJECT_DIR$/symbol_table/test.py" />
       </list>
     </option>
   </component>
@@ -292,7 +292,7 @@
       <recent name="$PROJECT_DIR$/union_find" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in TestTrie and test_trie">
+  <component name="RunManager" selected="Python tests.py.test in test.py (2)">
     <configuration default="false" name="py.test in test.py (1)" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -634,8 +634,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie and test_trie" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test.py (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test.py (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie and test_trie" />
         <item index="2" class="java.lang.String" itemvalue="Python.trie" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in TestTrie" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test.py (1)" />
@@ -744,13 +744,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563290644890</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Trie standard implementation.">
+      <created>1563290845619</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563290845619</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_TestTrie - 2019.07.16 at 22h 53m 00s.xml">
-      <configuration name="py.test in TestTrie" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 56m 15s.xml">
       <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
@@ -760,11 +764,8 @@
     <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 57m 03s.xml">
       <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py_(1) - 2019.07.16 at 22h 51m 03s.xml">
-      <configuration name="py.test in test.py (1)" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_py_(1) - 2019.07.16 at 22h 51m 50s.xml">
-      <configuration name="py.test in test.py (1)" configurationId="tests" />
+    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 23h 29m 44s.xml">
+      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 53m 07s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
@@ -776,6 +777,12 @@
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 53s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 29m 55s.xml">
+      <configuration name="py.test in test.py (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 30m 35s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
   </component>
@@ -798,6 +805,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1965812" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21855922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -809,7 +817,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1965812" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Pylint" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1167,21 +1174,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/logs and todos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1193,11 +1198,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs and todos">
+    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
