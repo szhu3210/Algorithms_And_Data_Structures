@@ -4,6 +4,12 @@ To do list:
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
 
 
+20190717
+
+研究LC664。想到了几个做recursion/top-down DP问题的心得：
+    在reduce一个问题的时候一定要只处理一步，不要处理的太深，否则就不能和子函数耦合，无法形成一个有效的recursion。
+    遇到例如求最优化问题/最小开销问题，没有显式优化形式的时候，就要考虑DP。
+
 20190716
 
 研究Trie的标准写法，偶然发现了LC472的最优解，跪了。没想到一道hard题可以如此简单。
