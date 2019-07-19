@@ -2,11 +2,27 @@ To do list:
     1. Prepare technical projects: Arbitrage and BlueAir
     2. Prepare 2 stories about teamwork, behavior, personality, leadership, communication skills.
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
-
+    4. 看九章算法的讲义。
 
 20190719
 
-做了LC546。是和LC664差不多的题。 
+做了LC546。是和LC664差不多的题。
+
+开始看九章算法中面试的讲解，了解了很多面试的误区，摘要如下：
+    1、并非一定要用最优解来解答
+    2、代码质量很重要：无bug、变量命名、使用空格/空行、易读性、没有冗余代码、边界检测和异常检测/处理。
+
+九章算法讲义中总结的考点排序：
+    1、拓扑排序
+    2、模拟法
+    3、动态规划
+    4、外排序/多路归并算法（External Sorting）
+    5、Trie
+    6、Union Find
+    7、BIT
+    8、Heap
+    9、贪心法
+
 
 
 20190718
