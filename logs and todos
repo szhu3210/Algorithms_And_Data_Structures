@@ -4,6 +4,24 @@ To do list:
     3. https://www.youtube.com/watch?v=ibFvkG-7h38&list=PLLuMmzMTgVK7XfFadhkPuF_ztvhxbriDr
     4. 看九章算法的讲义。
 
+20190720
+
+学习九章算法中的前导课程中的谷歌代码语言/风格规范：
+    https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_language_rules/
+    https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/
+
+摘要几个要点如下：
+    1、使用pylint
+    2、尽量不用复杂的list comprehension，浅显易懂的可以使用，
+    3、使用generator使内存使用更少
+    4、函数默认参数使用immutable
+    5、用list comprehension代替过时的字符串方法如filter(), map()以及reduce()
+    6、鼓励使用函数式编程
+    7、根据PEP8，注意风格规范
+    8、写docstring
+    9、TODO里写自己的名字和邮箱
+
+
 20190719
 
 做了LC546。是和LC664差不多的题。
