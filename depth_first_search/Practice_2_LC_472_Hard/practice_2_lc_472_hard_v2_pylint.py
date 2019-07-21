@@ -3,14 +3,11 @@ LC 472
 """
 
 
-class Solution:
+class Solution:  # pylint: disable=too-few-public-methods
 
     """
     Solution of LC 472
     """
-
-    def __init__(self):
-        pass
 
     @staticmethod
     def find_all_concatenated_words_in_a_dict(words):
