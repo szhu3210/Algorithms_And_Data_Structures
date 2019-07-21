@@ -28,8 +28,14 @@ def find(nums, target, left=True):
             start = mid  # or start = mid - 1
         else:
             end = mid  # or end = mid + 1
-    if nums[start] == target:
-        return start
-    if nums[end] == target:
-        return end
+    if left:
+        if nums[start] == target:
+            return start
+        if nums[end] == target:
+            return end
+    else:
+        if nums[end] == target:
+            return end
+        if nums[start] == target:
+            return start
     return -1
