@@ -18,7 +18,7 @@ def find(nums, target, left=True):
         return -1
     start, end = 0, len(nums) - 1
     while start + 1 < end:
-        mid = start + (start - end) // 2
+        mid = start + (end - start) // 2
         if nums[mid] == target:
             if left:
                 end = mid
