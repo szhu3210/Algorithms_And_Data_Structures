@@ -10,15 +10,14 @@ def find(nums, target, left=True):
     :param target:
     :param left: True -> when there are duplicated nums, return the first occurrence
     :return: index of target
+    The while condition is set to be start + 1 < end to ensure:
+        1. Final state will have start and end (two elements)
+        2. Range (from start to end) is guaranteed to be shortened in each loop
     """
     if not nums:
         return -1
     start, end = 0, len(nums) - 1
     while start + 1 < end:
-        """
-        final state will have start and end (two elements) 
-        range (from start to end) is guaranteed to be shortened in each loop
-        """
         mid = start + (start - end) // 2
         if nums[mid] == target:
             if left:
