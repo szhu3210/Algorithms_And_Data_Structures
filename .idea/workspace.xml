@@ -4,9 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Update binary search standard test: add &quot;left = False&quot; test cases.">
-      <change afterPath="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" afterDir="false" />
+    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Add LC 162.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs and todos" beforeDir="false" afterPath="$PROJECT_DIR$/logs and todos" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,15 +44,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
@@ -61,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="198">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs and todos">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -185,7 +185,6 @@
         <option value="$PROJECT_DIR$/symbol_table/trie.py" />
         <option value="$PROJECT_DIR$/symbol_table/test.py" />
         <option value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" />
-        <option value="$PROJECT_DIR$/logs and todos" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/Practice_5_LC_546_Hard.py" />
@@ -200,6 +199,7 @@
         <option value="$PROJECT_DIR$/binary_search/binary_search_test.py" />
         <option value="$PROJECT_DIR$/binary_search/binary_search_standard.py" />
         <option value="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" />
+        <option value="$PROJECT_DIR$/logs and todos" />
       </list>
     </option>
   </component>
@@ -216,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,7 +239,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,7 +464,8 @@
       <option name="presentableId" value="Default" />
       <updated>1561642457258</updated>
       <workItem from="1563696512672" duration="4351000" />
-      <workItem from="1563863440549" duration="514000" />
+      <workItem from="1563863440549" duration="712000" />
+      <workItem from="1563867401304" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="Updated my progress.&#10;">
       <created>1562751285193</created>
@@ -662,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563700751458</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add LC 162.">
+      <created>1563867133402</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563867133402</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -698,7 +706,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4865000" />
+    <option name="totallyTimeSpent" value="5124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -713,11 +721,11 @@
     <frame x="0" y="23" width="1680" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25152627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296837" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39902675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -788,7 +796,8 @@
     <MESSAGE value="Add binary search standard." />
     <MESSAGE value="Add binary search standard test." />
     <MESSAGE value="Update binary search standard test: add &quot;left = False&quot; test cases." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update binary search standard test: add &quot;left = False&quot; test cases." />
+    <MESSAGE value="Add LC 162." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add LC 162." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1563700717724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
@@ -1014,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs and todos">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1032,6 +1034,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="20" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1080,24 +1096,17 @@
     <entry file="file://$PROJECT_DIR$/depth_first_search/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs and todos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
