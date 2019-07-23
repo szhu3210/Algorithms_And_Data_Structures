@@ -4,8 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Add binary search standard.">
-      <change afterPath="$PROJECT_DIR$/binary_search/binary_search_test.py" afterDir="false" />
+    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Update binary search standard test: add &quot;left = False&quot; test cases.">
+      <change afterPath="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,29 +46,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="936">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/union_find/test.py">
+        <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="20" selection-end-line="63" />
+            <state relative-caret-position="576">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -152,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unionfind/input" />
         <option value="$PROJECT_DIR$/unionfind/output" />
         <option value="$PROJECT_DIR$/unionfind/quick_find.py" />
         <option value="$PROJECT_DIR$/unionfind/test.py" />
@@ -201,8 +197,9 @@
         <option value="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_standard.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" />
-        <option value="$PROJECT_DIR$/binary_search/binary_search_standard.py" />
         <option value="$PROJECT_DIR$/binary_search/binary_search_test.py" />
+        <option value="$PROJECT_DIR$/binary_search/binary_search_standard.py" />
+        <option value="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" />
       </list>
     </option>
   </component>
@@ -219,7 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,12 +226,19 @@
             <path>
               <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="union_find" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_1_LC_162_Medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,7 +463,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561642457258</updated>
-      <workItem from="1563696512672" duration="2143000" />
+      <workItem from="1563696512672" duration="4351000" />
+      <workItem from="1563863440549" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="Updated my progress.&#10;">
       <created>1562751285193</created>
@@ -644,28 +648,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563699218209</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add binary search standard test.">
+      <created>1563699666066</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1563699666066</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update binary search standard test: add &quot;left = False&quot; test cases.">
+      <created>1563700751458</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1563700751458</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 56m 15s.xml">
-      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 56m 48s.xml">
-      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 22h 57m 03s.xml">
-      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_TestTrie_and_test_trie - 2019.07.16 at 23h 29m 44s.xml">
-      <configuration name="py.test in TestTrie and test_trie" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 53m 07s.xml">
-      <configuration name="py.test in test.py (2)" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 54m 56s.xml">
-      <configuration name="py.test in test.py (2)" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 42s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
@@ -678,9 +678,27 @@
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 30m 35s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 01h 57m 40s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 01h 59m 17s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 02h 00m 01s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 02h 16m 25s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 02h 17m 18s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 02h 18m 38s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2143000" />
+    <option name="totallyTimeSpent" value="4865000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,15 +711,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="940" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24847375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25152627" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296837" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39902675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -712,12 +729,14 @@
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3296837" />
       <window_info active="true" anchor="bottom" id="Pylint" order="11" visible="true" weight="0.3296837" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.3296837" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
       <window_info active="true" anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.1965812" />
+      <window_info anchor="right" id="SciView" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -767,10 +786,12 @@
     <MESSAGE value="Update logs." />
     <MESSAGE value="Use pylint to update the code style." />
     <MESSAGE value="Add binary search standard." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add binary search standard." />
+    <MESSAGE value="Add binary search standard test." />
+    <MESSAGE value="Update binary search standard test: add &quot;left = False&quot; test cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update binary search standard test: add &quot;left = False&quot; test cases." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1563699600687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
+    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1563700717724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/union_find/output">
@@ -1007,6 +1028,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/practice_5_lc_546_hard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1054,25 +1082,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="20" selection-end-line="63" />
+        <state relative-caret-position="936">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="576">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
