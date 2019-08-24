@@ -1,10 +1,21 @@
+"""
+Test for binary search
+"""
+
+
 from unittest import TestCase
 from binary_search.binary_search_standard import find
 
 
 class TestBinarySearch(TestCase):
+    """
+    Test class
+    """
 
     def test_quick_find(self):
+        """
+        :return:
+        """
         res = find([1, 2, 3, 3, 4, 5], 3)
         self.assertEqual(res, 2)
         res = find([1, 2, 3, 3, 4, 5], 2)

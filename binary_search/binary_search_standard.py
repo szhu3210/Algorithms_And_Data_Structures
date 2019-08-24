@@ -3,7 +3,7 @@
 """
 
 
-def find(nums, target, left=True):
+def find(nums, target, left=True):  # pylint: disable=too-many-branches
     """
     Find first index of target in nums (sorted), return -1 if not found
     :param nums:

@@ -19,9 +19,9 @@ class DFSDetectCycles(DFS):
         :return:
         """
 
-        if self.visited[cur]:
+        if cur in self.visited:
             return True
-        self.visited[cur] = True
+        self.visited.add(cur)
 
         for node in self.adjacency_list[cur]:
             if self.dfs_detect_cycles(node):

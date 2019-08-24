@@ -12,24 +12,28 @@ class DFSFindConnectedComponent(DFS):
     something
     """
 
-    def __init__(self, size, adjacency_list):
-        super().__init__(size, adjacency_list)
-        self.component = [None] * size
+    def __init__(self, adjacency_list):
+        super().__init__(adjacency_list)
+        self.component = {}
         self.component_id = 0
 
     def find_components(self):
         """
         :return:
         """
-        for node in range(self.size):
-            if not self.visited[node]:
+        for node in self.adjacency_list:
+            if node not in self.visited:
                 self.dfs(node)  # mark component_id when visit nodes
                 self.component_id += 1
         return self.component
 
     def dfs(self, cur):  # this time, cur is guaranteed to be unvisited
-        self.visited[cur] = True
+        """
+        :param cur: ...
+        :return: ...
+        """
+        self.visited.add(cur)
         self.component[cur] = self.component_id
         for node in self.adjacency_list[cur]:
-            if not self.visited[node]:  # check node (to be unvisited) before calling dfs
+            if node not in self.visited:  # check node (to be unvisited) before calling dfs
                 self.dfs(node)

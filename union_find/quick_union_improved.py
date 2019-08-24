@@ -1,9 +1,21 @@
+"""
+Quick Union improved
+"""
+
+
 from union_find.quick_union import QuickUnionUF
 
 
 class QuickUnionImprovedUF(QuickUnionUF):
+    """
+    class of QuickUnionImproved
+    """
 
-    def root(self, i: int) -> int:
-        if self.id[i] != i:
-            self.id[i] = self.root(self.id[i])
-        return self.id[i]
+    def root(self, node: int) -> int:
+        """
+        :param node: ...
+        :return: ...
+        """
+        if self._id[node] != node:
+            self._id[node] = self.root(self._id[node])
+        return self._id[node]

@@ -1,14 +1,22 @@
-# Python code to demonstrate communication
-# between parent and child process using
-# python.
+"""
+Python code to demonstrate communication
+between parent and child process using
+python.
+"""
+
 
 import os
 
 
 def communication(child_writes):
+    """
+    :param child_writes: ...
+    :return: ...
+    """
+
     # file descriptors r, w for reading and writing
-    r, w = os.pipe()
-    print(f'fd: r: {r}, w: {w}')
+    read_fd, write_fd = os.pipe()
+    print(f'fd: r: {read_fd}, w: {write_fd}')
 
     # Creating child process using fork
     process_id = os.fork()
@@ -16,22 +24,21 @@ def communication(child_writes):
     if process_id:
         # This is the parent process
         # Closes file descriptor w
-        os.close(w)
-        r = os.fdopen(r)
+        os.close(write_fd)
+        read_fd = os.fdopen(read_fd)
         print("Parent reading")
-        str_read = r.read()
+        str_read = read_fd.read()
         print("Parent reads =", str_read)
     else:
         # This is the child process
-        os.close(r)
-        w = os.fdopen(w, 'w')
+        os.close(read_fd)
+        write_fd = os.fdopen(write_fd, 'w')
         print("Child writing")
-        w.write(child_writes)
+        write_fd.write(child_writes)
         print("Child writes = ", child_writes)
-        w.close()
-
-        # Driver code
+        write_fd.close()
 
 
-test_str = "Hello geeks"
-communication(test_str)
+if __name__ == "__main__":
+    TEST = "Hello geeks"
+    communication(TEST)

@@ -1,18 +1,40 @@
+"""
+QuickUnion implementation of UF
+"""
+
+
 class QuickUnionUF:
+    """
+    Quick Union
+    """
 
     def __init__(self, size: int) -> None:
-        self.id = list(range(size))
+        self._id = list(range(size))
         self.size = size
 
-    def root(self, i: int) -> int:
-        while self.id[i] != i:
-            i = self.id[i]
-        return i
+    def root(self, node: int) -> int:
+        """
+        :param node: ...
+        :return: ...
+        """
+        while self._id[node] != node:
+            node = self._id[node]
+        return node
 
-    def union(self, p: int, q: int) -> None:
-        i = self.root(p)
-        j = self.root(q)
-        self.id[i] = j
+    def union(self, node_1: int, node_2: int) -> None:
+        """
+        :param node_1: ...
+        :param node_2: ...
+        :return: ...
+        """
+        node_1_id = self.root(node_1)
+        node_2_id = self.root(node_2)
+        self._id[node_1_id] = node_2_id
 
-    def connected(self, p: int, q: int) -> bool:
-        return self.root(p) == self.root(q)
+    def connected(self, node_1: int, node_2: int) -> bool:
+        """
+        :param node_1: ...
+        :param node_2: ...
+        :return: ...
+        """
+        return self.root(node_1) == self.root(node_2)

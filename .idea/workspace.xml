@@ -4,9 +4,31 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Add LC 162.">
+    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Updated and cleaned some code.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/binary_search_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/binary_search_standard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/binary_search_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/binary_search_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_standard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs and todos" beforeDir="false" afterPath="$PROJECT_DIR$/logs and todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_utilities/factorize.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_utilities/factorize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_threading/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi_threading/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symbol_table/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/symbol_table/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symbol_table/trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/symbol_table/trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/quick_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_find.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/quick_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/quick_union_improved.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_improved.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/quick_union_weighted.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union_find/union_find_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/union_find_standard.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,87 +68,97 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="319">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
+        <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="444">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/quick_union.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs and todos">
+        <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="439">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#30#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/practice_5_lc_546_hard.py">
+        <entry file="file://$PROJECT_DIR$/union_find/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="314">
+              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+              <folding>
+                <element signature="e#8#91#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py">
+        <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="221">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_find_minimum_spanning_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py">
+        <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_standard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/depth_first_search/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -149,31 +181,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unionfind/output" />
-        <option value="$PROJECT_DIR$/unionfind/quick_find.py" />
-        <option value="$PROJECT_DIR$/unionfind/test.py" />
-        <option value="$PROJECT_DIR$/union_find/quick_find.py" />
-        <option value="$PROJECT_DIR$/union_find/quick_union.py" />
-        <option value="$PROJECT_DIR$/union_find/quick_union_weighted.py" />
-        <option value="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" />
-        <option value="$PROJECT_DIR$/union_find/quick_union_improved.py" />
-        <option value="$PROJECT_DIR$/math/factorize.py" />
-        <option value="$PROJECT_DIR$/学习普林斯顿算法的具体方法" />
-        <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard.py" />
-        <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard_test.py" />
-        <option value="$PROJECT_DIR$/Method of study" />
         <option value="$PROJECT_DIR$/union_find/union_find_size_standard.py" />
-        <option value="$PROJECT_DIR$/union_find/union_find_standard.py" />
         <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard.py" />
         <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard_test.py" />
-        <option value="$PROJECT_DIR$/union_find/test.py" />
         <option value="$PROJECT_DIR$/method of study" />
         <option value="$PROJECT_DIR$/conclusion" />
         <option value="$PROJECT_DIR$/method of interview" />
         <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_test.py" />
-        <option value="$PROJECT_DIR$/math_utilities/factorize.py" />
         <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py" />
-        <option value="$PROJECT_DIR$/multi_threading/sample.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_find_component.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_minimum_spanning_tree.py" />
         <option value="$PROJECT_DIR$/keywords" />
@@ -182,31 +197,48 @@
         <option value="$PROJECT_DIR$/symbol_table/trie_test.py" />
         <option value="$PROJECT_DIR$/trie/trie.py" />
         <option value="$PROJECT_DIR$/trie/test.py" />
-        <option value="$PROJECT_DIR$/symbol_table/trie.py" />
-        <option value="$PROJECT_DIR$/symbol_table/test.py" />
-        <option value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/Practice_5_LC_546_Hard.py" />
         <option value="$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/practice_5_lc_546_hard.py" />
         <option value="$PROJECT_DIR$/depth_first_search/__init__.py" />
-        <option value="$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_find_minimum_spanning_tree.py" />
+        <option value="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" />
+        <option value="$PROJECT_DIR$/logs and todos" />
+        <option value="$PROJECT_DIR$/union_find/union_find_standard.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py" />
+        <option value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" />
+        <option value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py" />
+        <option value="$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard_test.py" />
+        <option value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard.py" />
+        <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard_test.py" />
+        <option value="$PROJECT_DIR$/binary_search/binary_search_standard.py" />
+        <option value="$PROJECT_DIR$/binary_search/binary_search_test.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_standard.py" />
         <option value="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" />
-        <option value="$PROJECT_DIR$/binary_search/binary_search_test.py" />
-        <option value="$PROJECT_DIR$/binary_search/binary_search_standard.py" />
-        <option value="$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py" />
-        <option value="$PROJECT_DIR$/logs and todos" />
+        <option value="$PROJECT_DIR$/math_utilities/factorize.py" />
+        <option value="$PROJECT_DIR$/union_find/quick_find.py" />
+        <option value="$PROJECT_DIR$/union_find/quick_union.py" />
+        <option value="$PROJECT_DIR$/union_find/quick_union_improved.py" />
+        <option value="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" />
+        <option value="$PROJECT_DIR$/union_find/quick_union_weighted.py" />
+        <option value="$PROJECT_DIR$/multi_threading/sample.py" />
+        <option value="$PROJECT_DIR$/symbol_table/test.py" />
+        <option value="$PROJECT_DIR$/union_find/test.py" />
+        <option value="$PROJECT_DIR$/symbol_table/trie.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="940" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,7 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,18 +258,24 @@
             <path>
               <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="binary_search" type="462c0819:PsiDirectoryNode" />
+              <item name="symbol_table" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="binary_search" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice_1_LC_162_Medium" type="462c0819:PsiDirectoryNode" />
+              <item name="union_find" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="union_find" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_2_LC_803_Hard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +285,8 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -272,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for binary_search_test.TestBinarySearch.test_quick_find">
+  <component name="RunManager" selected="Python tests.pytest for test.TestUnionFind">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +344,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,80 +384,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="py.test in TestTrie and test_trie" type="tests" factoryName="py.test" temporary="true">
-      <module name="1 code implementation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/symbol_table/test.py" />
-      <option name="keywords" value="TestTrie and test_trie" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
-      <module name="1 code implementation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="py.test in test.py (2)" type="tests" factoryName="py.test" temporary="true">
-      <module name="1 code implementation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/symbol_table/test.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <module name="1 code implementation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="1 code implementation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -436,20 +400,52 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test.TestUnionFind" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="1 code implementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/union_find" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestUnionFind&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="1 code implementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/symbol_table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/symbol_table/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Practice_1_LC_5_Medium" />
       <item itemvalue="Python.practice_2_lc_472_hard_v2_pylint" />
-      <item itemvalue="Python tests.py.test in test.py (2)" />
-      <item itemvalue="Python tests.py.test in TestTrie and test_trie" />
       <item itemvalue="Python tests.pytest for binary_search_test.TestBinarySearch.test_quick_find" />
+      <item itemvalue="Python tests.pytest in test.py" />
+      <item itemvalue="Python tests.pytest for test.TestUnionFind" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test.TestUnionFind" />
+        <item itemvalue="Python tests.pytest in test.py" />
         <item itemvalue="Python tests.pytest for binary_search_test.TestBinarySearch.test_quick_find" />
         <item itemvalue="Python.practice_2_lc_472_hard_v2_pylint" />
         <item itemvalue="Python.Practice_1_LC_5_Medium" />
-        <item itemvalue="Python tests.py.test in test.py (2)" />
-        <item itemvalue="Python tests.py.test in TestTrie and test_trie" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +461,10 @@
       <updated>1561642457258</updated>
       <workItem from="1563696512672" duration="4351000" />
       <workItem from="1563863440549" duration="712000" />
-      <workItem from="1563867401304" duration="61000" />
+      <workItem from="1563867401304" duration="226000" />
+      <workItem from="1566664100522" duration="1329000" />
+      <workItem from="1566666615916" duration="42000" />
+      <workItem from="1566666672117" duration="9980000" />
     </task>
     <task id="LOCAL-00001" summary="Updated my progress.&#10;">
       <created>1562751285193</created>
@@ -670,16 +669,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563867133402</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add LC 162.">
+      <created>1563867487272</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1563867487272</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 42s.xml">
-      <configuration name="py.test in test.py (2)" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 22h 55m 53s.xml">
-      <configuration name="py.test in test.py (2)" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 29m 55s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
@@ -704,9 +704,15 @@
     <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.07.21 at 02h 18m 38s.xml">
       <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_binary_search_test_TestBinarySearch_test_quick_find - 2019.08.24 at 14h 01m 07s.xml">
+      <configuration name="pytest for binary_search_test.TestBinarySearch.test_quick_find" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.08.24 at 14h 01m 33s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5124000" />
+    <option name="totallyTimeSpent" value="16640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -718,24 +724,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="940" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25457877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22896698" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280255" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39902675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296837" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296837" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3296837" />
-      <window_info active="true" anchor="bottom" id="Pylint" order="11" visible="true" weight="0.3296837" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32908705" />
+      <window_info anchor="bottom" id="Pylint" order="11" sideWeight="0.49946752" weight="0.32908705" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.3296837" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -743,7 +749,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
-      <window_info active="true" anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.1965812" />
+      <window_info active="true" anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.19648562" />
       <window_info anchor="right" id="SciView" order="5" />
     </layout>
   </component>
@@ -797,10 +803,13 @@
     <MESSAGE value="Add binary search standard test." />
     <MESSAGE value="Update binary search standard test: add &quot;left = False&quot; test cases." />
     <MESSAGE value="Add LC 162." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LC 162." />
+    <MESSAGE value="Updated and cleaned some code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated and cleaned some code." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1563700717724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
+    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1566680490745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/symbol_table" />
+    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_test_TestUnionFind.coverage" NAME="pytest for test.TestUnionFind Coverage Results" MODIFIED="1566680509916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
+    <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1566680464445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/union_find/output">
@@ -817,34 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.gdoc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -856,53 +837,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/union_find/union_find_size_standard.py" />
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Icon&#13;" />
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/method of interview.gdoc">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="71" lean-forward="true" selection-start-column="71" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/union_find_standard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -938,41 +877,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/method of study">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -984,20 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keywords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1015,42 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="20" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_5_LC_546_Hard/practice_5_lc_546_hard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1058,10 +912,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py">
+    <entry file="file://$PROJECT_DIR$/keywords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="384">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1072,41 +926,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_standard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium_v1.gdoc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_topological_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_check_bipartite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/Practice_1_LC_162_Medium/practice_1_lc_162_medium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="336">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/union_find_standard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs and todos">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="552">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_standard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="e#8#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#30#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
