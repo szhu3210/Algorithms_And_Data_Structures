@@ -4,31 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Updated and cleaned some code.">
+    <list default="true" id="e69a1ed9-e3cb-4910-941f-428d8bb887d8" name="Default" comment="Refactor code according to pylint. Learnt about Google code style.">
+      <change afterPath="$PROJECT_DIR$/special_methods/serialize_deserialze_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search/binary_search_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/binary_search_standard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search/binary_search_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/binary_search_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/Practice_2_LC_472_Hard_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_find_connected_component.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depth_first_search/dfs_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/depth_first_search/dfs_standard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs and todos" beforeDir="false" afterPath="$PROJECT_DIR$/logs and todos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_utilities/factorize.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_utilities/factorize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi_threading/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/multi_threading/sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/Practice_1_LC_5_Medium.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symbol_table/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/symbol_table/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symbol_table/trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/symbol_table/trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/practice_1_lc_952_hard_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/Practice_2_LC_803_Hard_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard/practice_2_lc_803_hard_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/quick_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/quick_union.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/quick_union_improved.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_improved.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/quick_union_weighted.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/quick_union_weighted_path_compression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/union_find/union_find_standard.py" beforeDir="false" afterPath="$PROJECT_DIR$/union_find/union_find_standard.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +30,9 @@
     <SUITE FILE_PATH="coverage/1 code implementation$trie.coverage" NAME="trie Coverage Results" MODIFIED="1563288893191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/symbol_table" />
     <SUITE FILE_PATH="coverage/1 code implementation$test.coverage" NAME="test Coverage Results" MODIFIED="1561886910295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="247" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -68,8 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
+            <state relative-caret-position="837">
               <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/special_methods/serialize_deserialze_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -77,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="672">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -86,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/union_find/quick_union.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="552">
               <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
@@ -95,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="504">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -104,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="528">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -113,32 +103,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#30#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/union_find/test.py">
+        <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-              <folding>
-                <element signature="e#8#91#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -146,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="480">
+              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -181,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/union_find/union_find_size_standard.py" />
-        <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard.py" />
         <option value="$PROJECT_DIR$/union_find/Practice_2_LC_803_Hard_test.py" />
         <option value="$PROJECT_DIR$/method of study" />
         <option value="$PROJECT_DIR$/conclusion" />
@@ -232,13 +205,14 @@
         <option value="$PROJECT_DIR$/symbol_table/test.py" />
         <option value="$PROJECT_DIR$/union_find/test.py" />
         <option value="$PROJECT_DIR$/symbol_table/trie.py" />
+        <option value="$PROJECT_DIR$/twitter oa 4.py" />
+        <option value="$PROJECT_DIR$/special_methods/serialize_deserialze_tree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -258,18 +232,7 @@
             <path>
               <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="symbol_table" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="union_find" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1 code implementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1 code implementation" type="462c0819:PsiDirectoryNode" />
-              <item name="union_find" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice_2_LC_803_Hard" type="462c0819:PsiDirectoryNode" />
+              <item name="special_methods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test.TestUnionFind">
+  <component name="RunManager" selected="Python.serialize_deserialze_tree">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,7 +294,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="Practice_1_LC_5_Medium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="serialize_deserialze_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1 code implementation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/special_methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/Practice_1_LC_5_Medium/practice_1_lc_5_medium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/special_methods/serialize_deserialze_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_2_lc_472_hard_v2_pylint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twitter oa 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1 code implementation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,12 +324,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter oa 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,19 +396,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Practice_1_LC_5_Medium" />
-      <item itemvalue="Python.practice_2_lc_472_hard_v2_pylint" />
+      <item itemvalue="Python.twitter oa 4" />
       <item itemvalue="Python tests.pytest for binary_search_test.TestBinarySearch.test_quick_find" />
       <item itemvalue="Python tests.pytest in test.py" />
       <item itemvalue="Python tests.pytest for test.TestUnionFind" />
+      <item itemvalue="Python.serialize_deserialze_tree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.serialize_deserialze_tree" />
+        <item itemvalue="Python.twitter oa 4" />
         <item itemvalue="Python tests.pytest for test.TestUnionFind" />
         <item itemvalue="Python tests.pytest in test.py" />
         <item itemvalue="Python tests.pytest for binary_search_test.TestBinarySearch.test_quick_find" />
-        <item itemvalue="Python.practice_2_lc_472_hard_v2_pylint" />
-        <item itemvalue="Python.Practice_1_LC_5_Medium" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +427,11 @@
       <workItem from="1563867401304" duration="226000" />
       <workItem from="1566664100522" duration="1329000" />
       <workItem from="1566666615916" duration="42000" />
-      <workItem from="1566666672117" duration="9980000" />
+      <workItem from="1566666672117" duration="10329000" />
+      <workItem from="1566875287559" duration="58000" />
+      <workItem from="1566875472146" duration="2809000" />
+      <workItem from="1567012090658" duration="4553000" />
+      <workItem from="1567205813273" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="Updated my progress.&#10;">
       <created>1562751285193</created>
@@ -676,13 +643,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563867487272</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Refactor code according to pylint. Learnt about Google code style.">
+      <created>1566680567908</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1566680567908</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 29m 55s.xml">
-      <configuration name="py.test in test.py (2)" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_py_(2) - 2019.07.16 at 23h 30m 35s.xml">
       <configuration name="py.test in test.py (2)" configurationId="tests" />
     </history-entry>
@@ -710,9 +681,12 @@
     <history-entry file="pytest_in_test_py - 2019.08.24 at 14h 01m 33s.xml">
       <configuration name="pytest in test.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_test_TestUnionFind - 2019.08.24 at 14h 01m 53s.xml">
+      <configuration name="pytest for test.TestUnionFind" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16640000" />
+    <option name="totallyTimeSpent" value="25251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -724,15 +698,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22896698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23535676" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280255" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3272727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39902675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -741,7 +715,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32908705" />
-      <window_info anchor="bottom" id="Pylint" order="11" sideWeight="0.49946752" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Pylint" order="11" sideWeight="0.49946752" visible="true" weight="0.3315508" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.3296837" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
@@ -749,7 +723,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
-      <window_info active="true" anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.19648562" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.19648562" />
       <window_info anchor="right" id="SciView" order="5" />
     </layout>
   </component>
@@ -804,28 +778,17 @@
     <MESSAGE value="Update binary search standard test: add &quot;left = False&quot; test cases." />
     <MESSAGE value="Add LC 162." />
     <MESSAGE value="Updated and cleaned some code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated and cleaned some code." />
+    <MESSAGE value="Refactor code according to pylint. Learnt about Google code style." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor code according to pylint. Learnt about Google code style." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_code_implementation$serialize_deserialze_tree.coverage" NAME="serialize_deserialze_tree Coverage Results" MODIFIED="1567208021417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/special_methods" />
+    <SUITE FILE_PATH="coverage/1_code_implementation$twitter_oa_4.coverage" NAME="twitter oa 4 Coverage Results" MODIFIED="1567051256623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_code_implementation$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1566680490745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/symbol_table" />
     <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_test_TestUnionFind.coverage" NAME="pytest for test.TestUnionFind Coverage Results" MODIFIED="1566680509916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/union_find" />
     <SUITE FILE_PATH="coverage/1_code_implementation$pytest_for_binary_search_test_TestBinarySearch_test_quick_find.coverage" NAME="pytest for binary_search_test.TestBinarySearch.test_quick_find Coverage Results" MODIFIED="1566680464445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_search" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/union_find/output">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-1645354321/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="5221" column="21" selection-start-line="5221" selection-start-column="21" selection-end-line="5221" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/union_find/Practice_1_LC_952_Hard/Practice_1_LC_952_Hard.gdoc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1001,9 +964,6 @@
     <entry file="file://$PROJECT_DIR$/depth_first_search/dfs_detect_cycles.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2_pylint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1011,13 +971,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/depth_first_search/Practice_2_LC_472_Hard/practice_2_lc_472_hard_v2.py" />
     <entry file="file://$PROJECT_DIR$/logs and todos">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -1046,24 +1000,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
+    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="151">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#30#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
+    <entry file="file://$PROJECT_DIR$/union_find/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="408">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="e#26#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter oa 4.py" />
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math_utilities/factorize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/union_find/quick_union.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="552">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union_improved.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_standard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1074,51 +1084,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/quick_union_weighted.py">
+    <entry file="file://$PROJECT_DIR$/special_methods/serialize_deserialze_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_threading/sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="e#8#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbol_table/trie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/binary_search_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/symbol_table/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#30#59#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
