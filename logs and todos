@@ -5,6 +5,20 @@ To do list:
     4. 看九章算法的讲义。
 
 
+
+
+
+20190830
+
+这几天在学习电面和onsite面的技巧。并继续学习九章算法的内容。
+
+今天注意到一个细节，在Python3中，用户自己定义的class的实例是hashable的，也就是可以直接作为dict的key使用，hash的是id(object)。
+
+这个特性在各种链表和图中可以简化对对象的reference，不需要手动使用id()来refer对象。
+
+相关文档链接：https://docs.python.org/3/glossary.html。搜索"hashable"即可找到。
+
+
 20190824
 
 继续学习九章算法的内容，计划一下本周和下周的算法练习。注意在Google Docs写完代码后用PyCharm跑通然后用lint检查语法规范。
