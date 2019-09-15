@@ -4,6 +4,9 @@
 # ignore all stuff in .idea
 .idea/
 
+# ignore all stuff in .pytest_cache
+.pytest_cache
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
