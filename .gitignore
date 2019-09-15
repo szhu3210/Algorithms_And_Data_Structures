@@ -7,6 +7,9 @@
 # ignore all stuff in .pytest_cache
 .pytest_cache
 
+# ignore all stuff in __pycache__
+__pycache__
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
