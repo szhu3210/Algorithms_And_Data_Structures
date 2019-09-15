@@ -20,23 +20,12 @@ class BIT:
             for i, val in enumerate(p):
                 self.set(i, val)
 
-    def check_index(self, i):
-        """
-        check if index i is within the range of the BIT data structure.
-        :param i: int
-        :return: None
-        """
-        if not 0 <= i < self.size:
-            raise ValueError(f'Index ({i}) is out of range '
-                             f'([{0}, {self.size - 1}]) of the BIT array!')
-
     def get(self, i):
         """
         Get prefix sum of index i, inclusive.
         :param i: int
         :return: int
         """
-        self.check_index(i)
         prefix_sum = 0
         i += 1
         while i > 0:
@@ -51,7 +40,6 @@ class BIT:
         :param val: int, incremental
         :return: None
         """
-        self.check_index(i)
         i += 1
         while i <= self.size:
             self.bit[i] += val
