@@ -61,9 +61,9 @@ def test():
     """
     codec = Codec()
     a_root = TreeNode(1, TreeNode(2), None)
-    print(a_root.__hash__())
+    # print(a_root.__hash__())
     a_root.val = 2
-    print(a_root.__hash__())
+    # print(a_root.__hash__())
     a_s = codec.serialize(a_root)
     print(a_s)
     a_d = codec.deserialize(a_s)
