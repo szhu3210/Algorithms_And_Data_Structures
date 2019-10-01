@@ -1,44 +1,40 @@
 """
-Python code to demonstrate communication
-between parent and child process using
-python.
+Sample of multithreading in Python.
 """
 
 
-import os
+import time
+import threading
 
 
-def communication(child_writes):
+def loop():
     """
-    :param child_writes: ...
+    Show a thread.
     :return: ...
     """
-
-    # file descriptors r, w for reading and writing
-    read_fd, write_fd = os.pipe()
-    print(f'fd: r: {read_fd}, w: {write_fd}')
-
-    # Creating child process using fork
-    process_id = os.fork()
-    print(f'process_id: {process_id}')
-    if process_id:
-        # This is the parent process
-        # Closes file descriptor w
-        os.close(write_fd)
-        read_fd = os.fdopen(read_fd)
-        print("Parent reading")
-        str_read = read_fd.read()
-        print("Parent reads =", str_read)
-    else:
-        # This is the child process
-        os.close(read_fd)
-        write_fd = os.fdopen(write_fd, 'w')
-        print("Child writing")
-        write_fd.write(child_writes)
-        print("Child writes = ", child_writes)
-        write_fd.close()
+    print('thread %s is running...' % threading.current_thread().name)
+    _ = 0
+    while _ < 5:
+        _ = _ + 1
+        print('thread %s >>> %s' % (threading.current_thread().name, _))
+        time.sleep(1)
+    print('thread %s ended.' % threading.current_thread().name)
 
 
-if __name__ == "__main__":
-    TEST = "Hello geeks"
-    communication(TEST)
+def test():
+    """
+    ...
+    :return: ...
+    """
+    print('thread %s is running...' % threading.current_thread().name)
+    thread1 = threading.Thread(target=loop, name='LoopThread 1')
+    thread2 = threading.Thread(target=loop, name='LoopThread 2')
+    thread1.start()
+    thread2.start()
+    # t1.join()
+    # t2.join()
+    print('thread %s ended.' % threading.current_thread().name)
+
+
+if __name__ == '__main__':
+    test()
